@@ -1,0 +1,81 @@
+body{
+    margin: 0px;
+    background-color: rgb(238, 218, 233);
+    font-family:Arial, Helvetica, sans-serif 
+    font-size: 2vw;
+}
+
+#logo{
+    margin: 0px;
+    padding: 8px;
+    color: antiquewhite;
+    font-family: "Fredoka One", "Sans Serif"; 
+    box-shadow: 7px 7px 10px 5px palevioletred;
+    width: 17%;
+    border-radius: 10%;
+    text-shadow;
+}
+ul{
+    margin: 0px;
+}
+
+    
+body>header{
+    list-style: none;
+    display: flex;
+    height: 12vh;
+    align-items: center;
+    justify-content: space-around;
+   background-color:rgb(209, 58, 119)
+}
+#nav-ul> 
+
+
+.navbutton{
+   color: white
+text-decoration: none:
+padding: 12px; 
+border: 1px; color: white
+}
+body>main>article{
+    width:70% ;
+    margin: auto
+} 
+form{text-align: center;}
+h2{text-align: center;}
+
+    body>footer{
+    display: flex;
+        background-color:rgb(209, 58, 119)
+    
+    }
+
+#footer-ul{ display: flex;
+list-style: none;}
+
+#footer-ul>div>li{
+    margin-left: 12px
+   
+}
+#footer-ul>div>li>a {
+    text-decoration: none;
+    color: azure;}
+img{border-radius: 100%;}
+
+#main-content {
+    display: flex;
+    justify-content: space-around;
+
+}
+
+#main-content>div{ width:70%;}
+
+#aside {
+ display: flex;
+}
+
+
+
+inline block can fit inside text type block 
+quote to put text font fam in
+dot is for classes not hashes
